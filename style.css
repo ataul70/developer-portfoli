@@ -4,12 +4,15 @@ body{
 }
 h1{
     font-size: 50px;
+    font-style: italic;
 }
 h2{
     font-size: 30px;
+    font-style: italic;
 }
 .orange-color{
     color: orange;
+   
 }
 .flexible-container{
     display: flex;
@@ -29,6 +32,10 @@ h2{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.link-button:hover{
+    background-color: rgba(8, 1, 5, 0.527);
+    color:#21063670;
 }
 .top-banner{
     background-image: url(img/top-banner.png);
