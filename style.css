@@ -33,9 +33,7 @@ h2{
     font-weight: 700;
     border-radius: 5px;
 }
-.link-button:hover{
-    background-color: rgba(8, 1, 5, 0.527);
-    color:#21063670;
+
 }
 .top-banner{
     background-image: url(img/top-banner.png);
